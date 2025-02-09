@@ -1,9 +1,7 @@
 四川联通,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-2高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227477/index.m3u8
-CCTV-3-9,http://117.144.58.42:35455/gaoma/cctv3.m3u8
 CCTV-4高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227373/index.m3u8
-CCTV-5,http://ott.eonn.cn:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
 CCTV-6,http://home.dzlove.top:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
 CCTV-8,http://221.2.148.205:8154/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://42.238.235.104:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -43,13 +41,11 @@ SCTV-9高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227403/index.m3u8
 四川卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227417/index.m3u8
 深圳卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227419/index.m3u8
 江苏卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227421/index.m3u8
-卡酷动画,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227189/index.m3u8
 熊猫体娱,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227519/index.m3u8
 cdtv-1高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227495/index.m3u8
 CDTV5高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227587/index.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -57,7 +53,6 @@ CDTV5高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227587/index.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
 内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
@@ -251,10 +246,11 @@ CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
 金鹰卡通,http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 七龙珠,http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 猫和老鼠,http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
