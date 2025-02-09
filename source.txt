@@ -255,7 +255,6 @@ CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
 金鹰卡通,http://121.33.239.242:9901/tsfile/live/38727_1.m3u8
 金鹰卡通,http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-炫动卡通,http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -263,7 +262,6 @@ CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 七龙珠,http://182.40.120.195/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
 猫和老鼠,http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
 蜡笔小新,http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
 漫画解说,http://liushizupu.site:35455/yy/1382735568
