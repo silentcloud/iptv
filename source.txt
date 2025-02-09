@@ -54,6 +54,7 @@ CDTV5高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227587/index.m3u8
 
 央视,#genre#
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV2,http://www.clmy.cc:35455/gaoma/cctv2.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
