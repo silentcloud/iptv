@@ -64,8 +64,7 @@ CCTV-13高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227926/index.m3u8
 甘肃卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227937/index.m3u8
 
 IPTV345,#genre#
-CCTV6,https://t1.iptv200.com/live/cctv6/index.m3u8
-CCTV6-1,https://t1.iptv200.com/live/cctv6.m3u8?sign=1739097951-f3478e551ed8222152a8772c4ad6ed09
+CCTV-6,https://t1.iptv200.com/live/cctv6.m3u8?sign=1739097951-f3478e551ed8222152a8772c4ad6ed09
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
