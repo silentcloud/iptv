@@ -61,13 +61,8 @@ CCTV-8高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227427/index.m3u8
 CCTV-11高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227922/index.m3u8
 CCTV-13高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227926/index.m3u8
 吉林卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227935/index.m3u8
-甘肃卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227937/index.m3u8
+甘肃卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227937/index.m3u
 
-IPTV345,#genre#
-CCTV-6,https://t1.iptv200.com/live/cctv6.m3u8?sign=1739097951-f3478e551ed8222152a8772c4ad6ed09
-CCTV6-1,https://hlslive.1905.com/live/LIVEEA3XLP0BHZJSK/index.m3u8?tm=1739105280&sign=086b9e2a4f362ad4be3234d6464e713d
-
-📺央视频道,#genre#
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-1-1,http://112.46.85.60:8009/hls/501/index.m3u8
