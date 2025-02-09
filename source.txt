@@ -53,7 +53,7 @@ CDTV5高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227587/index.m3u8
 甘肃卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227937/index.m3u8
 
 央视,#genre#
-CCTV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
