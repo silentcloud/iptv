@@ -1,6 +1,6 @@
 四川联通,#genre#
 CCTV1,http://111.29.9.34:6610/000000001000/1000000001000021973/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021973
-CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV2,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227477/index.m3u8
 CCTV3,http://111.29.9.34:6610/000000001000/1000000001000011218/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000011218
 CCTV4,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227373/index.m3u8
